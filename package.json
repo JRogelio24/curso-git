@@ -1,0 +1,20 @@
+{
+  "name": "javascript-introduccion",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript",
+  "main": "index.html",
+  "dependencies": {
+    "eslint": "^8.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "español",
+    "java"
+  ],
+  "author": "jrogelio",
+  "license": "ISC"
+}
